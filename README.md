@@ -2,7 +2,9 @@
 
 [![Lean Build](../../actions/workflows/lean.yml/badge.svg)](../../actions/workflows/lean.yml)
 
-This repository contains a machine-checked proof, written in the [Lean 4](https://lean-lang.org/) theorem prover with the [Mathlib](https://leanprover-community.github.io/mathlib4_docs/) mathematics library, verifying the central claims of:
+The polyhedral journey forms a closed forward loop through the Platonic and Archimedean solids — tetrahedron to maximum icosahedral complexity and back — using only rectification, dualization, stellation, deformation, and subset extraction. No operation is reversed. The loop is governed by three rigid constraints: the coset index |I|/|T| = 5, the stellation-belt identity φ⁸ + φ⁻⁸ = 47, and the incompatibility of five-fold and tetrahedral symmetry. The core algebraic and group-theoretic results are now formally machine-verified in Lean 4.
+
+This repository contains the complete formal proof, written in the [Lean 4](https://lean-lang.org/) theorem prover with the [Mathlib](https://leanprover-community.github.io/mathlib4_docs/) mathematics library, verifying the central claims of:
 
 > **"The Golden-Ratio Polyhedral Journey: A Complete Forward Loop from Tetrahedron to Maximum Complexity and Return"**
 > by Shiva Meucci (January 2026)
